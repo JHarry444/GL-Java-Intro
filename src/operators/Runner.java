@@ -5,6 +5,8 @@ public class Runner {
 
 	public static void main(String[] args) {
 		int i = 27;
+		int a = 11;
+		// push
 		System.out.println("I: " + i);
 		System.out.println("I: " + i++);
 		System.out.println("I: " + i);
